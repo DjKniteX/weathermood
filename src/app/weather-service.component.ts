@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/cli';
-import { City } from './app/city';
+import { City } from './city';
 
 @Component({
     selector: 'weather-service',
