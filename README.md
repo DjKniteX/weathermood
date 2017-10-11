@@ -33,3 +33,8 @@ Go to the site, shows the current weather and the plays music based on the weath
 Nice little SPA, teaching myself angular
 
 Call a weather service, get current weather -> pass that back to the front end
+
+TODOS:
+Figure out the wireframe
+Build out the weather-service component
+Add concise stylings

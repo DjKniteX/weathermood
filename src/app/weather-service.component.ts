@@ -1,9 +1,10 @@
-import { Component, Input } from '@angular/cli';
+import { Component, Input } from '@angular/core';
 import { City } from './city';
 
 @Component({
     selector: 'weather-service',
-    templateUrl: './app/weather-service/weather-service.component.html',
+    templateUrl: './weather-service.component.html',
+    styleUrls: ['./weather-service.component.css'],
 
 })
 
