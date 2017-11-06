@@ -1,0 +1,10 @@
+@import './weather-service.component';
+@import './variables';
+@import './mixins';
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+
+
+body, html {
+    height: 100%;
+}

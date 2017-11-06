@@ -1,0 +1,18 @@
+@import './variables';
+
+.weathermood-top {
+    background-image: url("/assets/images/Rockies.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    width: 100%;
+    height: 100%;
+    padding-top: 20%;
+}
+
+h2{
+    font-family: $font;
+    text-align: $text-align-center;
+    color: gainsboro;
+    // background-color: grey;
+    border-radius: 10px;
+}

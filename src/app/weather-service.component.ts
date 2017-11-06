@@ -4,7 +4,7 @@ import { City } from './city';
 @Component({
     selector: 'weather-service',
     templateUrl: './weather-service.component.html',
-    styleUrls: ['./weather-service.component.css'],
+    styleUrls: ['../sass/weather-service.component.scss'],
 
 })
 
